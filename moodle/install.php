@@ -322,9 +322,9 @@ if ($config->stage == INSTALL_DOWNLOADLANG) {
     if (empty($CFG->dataroot)) {
         $config->stage = INSTALL_PATHS;
 
-    } else if (is_dataroot_insecure()) {
-        $hint_dataroot = get_string('pathsunsecuredataroot', 'install');
-        $config->stage = INSTALL_PATHS;
+    // } else if (is_dataroot_insecure()) {
+    //     $hint_dataroot = get_string('pathsunsecuredataroot', 'install');
+    //     $config->stage = INSTALL_PATHS;
 
     } else if (!file_exists($CFG->dataroot)) {
         $a = new stdClass();
@@ -651,4 +651,3 @@ echo '</div>';
 
 install_print_footer($config);
 die;
-

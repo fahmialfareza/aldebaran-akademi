@@ -23,7 +23,7 @@
  */
 
 if (!file_exists('./config.php')) {
-    header('Location: moodle/install.php');
+    header('Location: install.php');
     die;
 }
 
