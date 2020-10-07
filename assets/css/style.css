@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -100,10 +100,10 @@ h1, h2, h3, h4, h5, h6, figure {
     .colorlib-nav {
       margin: 0; } }
   .colorlib-nav .top-menu {
-    padding: 30px 30px; }
+    padding: 15px 15px; }
     @media screen and (max-width: 768px) {
       .colorlib-nav .top-menu {
-        padding: 28px 1em; } }
+        padding: 19px 1em; } }
   .colorlib-nav #colorlib-logo {
     font-size: 20px;
     margin: 0;
@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .colorlib-services,
 #colorlib-contact,
 .colorlib-blog {
-  padding: 7em 0;
+  padding: 5em 0;
   clear: both; }
 
 .colorlib-bg-white {
@@ -1134,7 +1134,7 @@ input[type="text"] {
   position: absolute;
   z-index: 1901;
   width: 270px;
-  background: #1a1a1a;
+  background: #15273a;
   top: 0;
   right: 0;
   top: 0;
@@ -1313,11 +1313,10 @@ input[type="text"] {
   background: #fff; }
 
 .colorlib-nav-toggle {
-  position: absolute;
+  position: fixed;
   right: 0px;
   top: 65px;
   z-index: 21;
-  padding: 6px 0 0 0;
   display: block;
   margin: 0 auto;
   display: none;
