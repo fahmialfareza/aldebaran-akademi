@@ -129,6 +129,11 @@
 		<div id="keunggulan" class="colorlib-services colorlib-bg-white">
 			<div class="container">
 				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Keunggulan</h2>
+					</div>
+				</div>
+				<div class="row">
 					<div class="col-md-4 text-center animate-box">
 						<div class="services">
 							<span class="icon">
@@ -168,6 +173,11 @@
 
 		<div id="benefit" class="colorlib-intro">
 			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Benefit</h2>
+					</div>
+				</div>
 				<div class="row">
 					<div class="col-md-6 text-center animate-box">
 						<div class="services">
@@ -242,8 +252,8 @@
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<div class="pricing">
 							<h2 class="pricing-heading">Mulai dari</h2>
-							<div class="price"><sup class="currency">Rp</sup>50.000<small>bayar sekali selamanya</small></div>
-							<p>Kumpulan Materi SKD (Gratis Selamanya) <br>Tryout SKD <br>Kumpulan Materi Psikotes (Gratis Selamanya) <br>Latihan Soal TWK <br>Latihan Soal TIU <br>Latihan Soal TKP</p>
+							<div class="price"><sup class="currency">Rp</sup>50.000<small>per tahun</small></div>
+							<p>Kumpulan Materi SKD (Bebas Akses Selamanya) <br>Tryout SKD <br>Kumpulan Materi Psikotes (Bebas Akses Selamanya) <br>Latihan Soal TWK <br>Latihan Soal TIU <br>Latihan Soal TKP</p>
 							<p><a target="_blank" href="https://wa.me/6285156480825/?text=Saya ingin daftar Member Aldebaran Akademi" class="btn btn-primary">Daftar Sekarang</a></p>
 						</div>
 					</div>
@@ -287,12 +297,12 @@
 		<div class="colorlib-contact" id="kontak">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<!-- <h2>Pilihan Paket</h2> -->
-					</div>
-				</div>
-				<div class="row">
 					<div class="col-md-12 text-center animate-box">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+								<!-- <h2>Kontak</h2> -->
+							</div>
+						</div>
 						<div class="row">
 							<div class="col-md-12">
 								<div class="contact-info-wrap-flex">
